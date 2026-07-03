@@ -38,8 +38,8 @@ Open **Git Bash** on your computer, then run these commands one by one.
 
 **Step 1 — Remove any old config (optional, only if reconfiguring):**
 ```bash
-git config --global --unset user.name
-git config --global --unset user.email
+git config --global --unset user.name "panaliya91-act"
+git config --global --unset user.email "panaliyahardik91@gmail.com"
 ```
 
 **Step 2 — Add your details:**
